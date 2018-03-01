@@ -1,18 +1,18 @@
-## Welcome to the Official DremOS Website
+# Welcome to the Official DremOS Website
 
-### DremOS
+# DremOS
 
 DremOS is a fast and lightweight OS. It originally started on SUSEStudio which since has shut down, so since 0.5.0 it is based on Ubuntu.
 
-### Downloads
+# Downloads
 
 
 ## DremOS 0.5.0
 
-# Download
+### Download
 <a href="https://www.github.com/SamParisot/DremOS/DremOS-0.5.0.iso">Download</a>
 
-# Update Notes
+### Update Notes
 
 Since DremOS 0.5.0 is the first version of DremOS to be based on Ubuntu, this version won't be as feature rich. We will try to get more features on later updates.
 ! DremOS uses XFCE4 as a Window Manager/Desktop
@@ -20,11 +20,11 @@ Since DremOS 0.5.0 is the first version of DremOS to be based on Ubuntu, this ve
 +Steam
 +The normal programs you would find on Ubuntu.
 
-### Compatibility
+# Compatibility
 
 Almost any x64 or x86_64 PC will be able to run DremOS
 
-### How to install
+# How to install
 
 Step 1.) Download the ISO for DremOS (latest is recomended).
 Step 2.) Download Rufus <a href="https://rufus.akeo.ie/">here</a>
@@ -36,7 +36,7 @@ Step 7.) Plug the USB flash drive into the target PC and boot into it through BI
              BIOS keys are usualy ESC, F2, OR F12. If that does not work, look up BIOS key for your specific computer model.
 Step 8.) Follow instructions to install
              This will erase all data on your hard disk so back it up if you have anything important on it.
-### Recovered SUSE-based OSes
+# Recovered SUSE-based OSes
 
 Currently the only version of DremOS that was built on SUSEStudio is version 0.3.1.
 
