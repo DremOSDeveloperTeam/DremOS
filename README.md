@@ -9,9 +9,11 @@ DremOS is a fast and lightweight OS. It originally started on SUSEStudio which s
 
 ## DremOS 0.5.0
 
-### Download
-
 <a href="https://www.github.com/SamParisot/DremOS/DremOS-0.5.0.iso">Download</a>
+
+Note: DremOS 0.5.0 has not been released yet, so this link will not work.
+
+Expected release date: Before 3/11/18
 
 ### Update Notes
 
