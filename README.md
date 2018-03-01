@@ -6,7 +6,7 @@ DremOS is a fast and lightweight OS. It originally started on SUSEStudio which s
 
 ### Downloads
 
-```DremOS 0.5.0
+```markdown
 ## DremOS 0.5.0
 
 # Download
