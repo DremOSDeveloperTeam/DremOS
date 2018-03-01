@@ -6,6 +6,9 @@ DremOS is a fast and lightweight OS. It originally started on SUSEStudio which s
 
 # Downloads
 
+## DremOS 0.6.0
+
+DremOS 0.6.0 is going to begin development when the ISO for DremOS 0.5.0 has been uploaded.
 
 ## DremOS 0.5.0
 
@@ -23,9 +26,9 @@ Since DremOS 0.5.0 is the first version of DremOS to be based on Ubuntu, this ve
 
 +Steam
 
-+Ubuntu Builder (may have failed but it will probably be on the root of your installation)
++Ubuntu Builder (may have failed but it will probably be on the root of your installation (we're getting used to the program))
 
-+The normal programs you would find on Ubuntu.
++The normal programs you would find on Ubuntu, such as LibreOffice.
 
 # Compatibility
 
