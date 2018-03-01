@@ -21,9 +21,9 @@ Since DremOS 0.5.0 is the first version of DremOS to be based on Ubuntu, this ve
 
 ! DremOS uses XFCE4 as a Window Manager/Desktop
 
-+Ubuntu Builder
-
 +Steam
+
++Ubuntu Builder (may have failed but it will probably be on the root of your installation)
 
 +The normal programs you would find on Ubuntu.
 
