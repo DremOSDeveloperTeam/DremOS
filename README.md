@@ -2,7 +2,7 @@
 
 # DremOS
 
-DremOS is a fast and lightweight OS. It originally started on SUSEStudio which since has shut down, so since 0.5.0 it is based on Ubuntu.
+DremOS is a fast and lightweight OS. It originally started on SUSEStudio which since has shut down, so since 0.5.0 it is based on Ubuntu. DremOS is possibly the greatest Ubuntu-based OS because it has everything you need and is possibly better then the past DremOS. We have continued our work using a program named Ubuntu Builder because ExpressBuild wasn't a new SUSEStudio at all. It simply allowed you to build appliances but did not allow you to edit them to the extent SUSEStudio did.
 
 # Downloads
 
