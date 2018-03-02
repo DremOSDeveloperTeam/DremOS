@@ -10,9 +10,23 @@ DremOS is a fast and lightweight OS. It originally started on SUSEStudio which s
 
 DremOS 0.6.0 is going to begin development when the ISO for DremOS 0.5.0 has been uploaded.
 
+### Planned Update Notes
+
+This update is to get DremOS a little over where it was before. DremOS 0.5.0 was simply made to say DremOS isn't dead and refuses to die and to make it an Ubuntu-based OS.
+
+~Logo changes and other fun stuff like that
+
++WINE
+
++Java JRE 8
+
++Installer for DOSBox
+
++Visual Studio Code
+
 ## DremOS 0.5.0
 
-<a href="https://www.github.com/SamParisot/DremOS/DremOS-0.5.0.iso">Download</a>
+<a href="https://github.com/samparisot/DremOS/releases/download/0.5.0/DremOS-0.5.0.iso">Download</a>
 
 Note: DremOS 0.5.0 has not been released yet, so this link will not work.
 
@@ -32,7 +46,17 @@ Since DremOS 0.5.0 is the first version of DremOS to be based on Ubuntu, this ve
 
 # Compatibility
 
-Almost any x64 or x86_64 PC will be able to run DremOS
+Almost any x64 or x86_64 PC will be able to run DremOS.
+
+## Recommended Requirements
+
+RAM: 4GBs
+
+CPU: 2.1GHZ Dual-core
+
+GPU: Integrated graphics would work fine (every computer has it unless it is the ENIAC or UNIVAC or something)
+
+WiFI or Ethernet connectivity is strongly recommended.
 
 # How to install
 
@@ -60,6 +84,10 @@ This will erase all data on your hard disk so back it up if you have anything im
 
 Currently the only version of DremOS that was built on SUSEStudio is version 0.3.1.
 
-Download: <a href="https://www.github.com/SamParisot/DremOS/DremOS_Ultimate_Edition.x86_64-0.3.1.iso">DremOS 0.3.1</a>
+Download: <a href="https://github.com/samparisot/DremOS/releases/download/0.3.1/DremOS_Ultimate_Edition.x86_64-0.1.0.iso">DremOS 0.3.1</a>
 
 Note: It may not be the easiest to install this as it does not use EFI, even with Rufus.
+
+
+© DremOS Department of Innovation Inc. (DDoII) 2016-2018
+© Innovation Inc. 2009-2018
