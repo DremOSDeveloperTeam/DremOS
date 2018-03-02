@@ -82,14 +82,12 @@ This will erase all data on your hard disk so back it up if you have anything im
 
 # Recovered SUSE-based OSes
 
-Currently the only version of DremOS that was built on SUSEStudio is version 0.3.1.
+Currently the only recovered version of DremOS that was built on SUSEStudio is version 0.3.1.
 
 Download: <a href="https://github.com/samparisot/DremOS/releases/download/0.3.1/DremOS_Ultimate_Edition.x86_64-0.1.0.iso">DremOS 0.3.1</a>
 
-Note: It may not be the easiest to install this as it does not use EFI, even with Rufus.
-	
- 	
- 
+Note: This OS may be a pain to install, and will probably not install on any Apple computer (iMac, MacBook, Mac Pro, etc.) due to the firmware it uses.
+
 © DremOS Department of Innovation Inc. (DDoII) 2016-2018
 
 © Innovation Inc. 2009-2018
