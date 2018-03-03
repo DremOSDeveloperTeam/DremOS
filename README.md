@@ -2,29 +2,25 @@
 
 # DremOS
 
-DremOS is a fast and lightweight OS. It originally started on SUSEStudio which since has shut down, so since 0.5.0 it is based on Ubuntu. DremOS is possibly the greatest Ubuntu-based OS because it has everything you need and is possibly better then the past DremOS. We have continued our work using a program named Ubuntu Builder because ExpressBuild wasn't a new SUSEStudio at all. It simply allowed you to build appliances but did not allow you to edit them to the extent SUSEStudio did.
+DremOS is a fast and lightweight OS. It originally started on SUSEStudio which since has shut down, so since 0.5.0 it is based on Linux Mint. DremOS is possibly the greatest Mint-based OS because it has everything you need and is possibly better then the past DremOS. We have continued our work using built in programs on Ubuntu and some good terminal knowlege because ExpressBuild isn't finished yet (we may do Mint-based OSes AND SUSE-based OSes when it comes out). It simply allowed you to build appliances but did not allow you to edit them to the extent SUSEStudio did.
 
 # Downloads
 
-## DremOS 0.6.0
+## DremOS 0.6.0 ("OSsick Cure")
 
 DremOS 0.6.0 is going to begin development when the ISO for DremOS 0.5.0 has been uploaded.
 
 ### Planned Update Notes
 
-This update is to get DremOS a little over where it was before. DremOS 0.5.0 was simply made to say DremOS isn't dead and refuses to die and to make it an Ubuntu-based OS.
+This update is to get DremOS a little over where it was before. DremOS 0.5.0 was simply made to say DremOS isn't dead and refuses to die and to make it an Mint-based OS.
 
-~Logo changes and other fun stuff like that
-
-+WINE
+~More logo changes and other fun stuff like that
 
 +Java JRE 8
 
-+Installer for DOSBox
-
 +Visual Studio Code
 
-## DremOS 0.5.0
+## DremOS 0.5.0 ("Minty")
 
 <a href="https://github.com/samparisot/DremOS/releases/download/0.5.0/DremOS-0.5.0.iso">Download</a>
 
@@ -34,15 +30,17 @@ Expected release date: Before 3/11/18
 
 ### Update Notes
 
-Since DremOS 0.5.0 is the first version of DremOS to be based on Ubuntu, this version won't be as feature rich. We will try to get more features on later updates.
+Since DremOS 0.5.0 is the first version of DremOS to be based on Linux Mint, this version won't be as feature rich. We will try to get more features on later updates.
 
 ! DremOS uses XFCE4 as a Window Manager/Desktop
 
 +Steam
 
-+Ubuntu Builder (may have failed but it will probably be on the root of your installation (we're getting used to the program))
++WINE
 
-+The normal programs you would find on Ubuntu, such as LibreOffice.
++DOSBox
+
++The normal programs you would find on Linux Mint.
 
 # Compatibility
 
