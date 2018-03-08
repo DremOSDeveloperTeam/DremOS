@@ -26,7 +26,7 @@ This update is to get DremOS a little over where it was before. DremOS 0.5.0 was
 
 Note: DremOS 0.5.0 has not been released yet, so this link will not work.
 
-Expected release date: Before 3/11/18
+Expected release date: Before 5/1/18
 
 ### Update Notes
 
