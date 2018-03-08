@@ -83,7 +83,9 @@ We have recovered every SUSE-based OSes in case you wanted to try them out.
 
 ## Downloads
 <a href="https://github.com/samparisot/DremOS/releases/download/0.3.1/DremOS_Ultimate_Edition.x86_64-0.1.0.iso">DremOS 0.3.1 ("Electric")</a>
+
 <a href="https://github.com/samparisot/DremOS/releases/download/0.3.1/DremOS_Ultimate_Edition.x86_64-0.1.0.iso">DremOS 0.2.0 ("Venture")</a>
+
 <a href="https://github.com/samparisot/DremOS/releases/download/0.3.1/DremOS_Ultimate_Edition.x86_64-0.1.0.iso">DremOS 0.1.0 ("Launchy")</a>
 
 Note: This OS may be a pain to install, and will probably not install on any Apple computer (iMac, MacBook, Mac Pro, etc.) due to the firmware it uses.
