@@ -14,8 +14,6 @@ Step 3.) In a terminal and in the same directory as the .sh and apps folder, typ
 
 # Downloads
 
-
-
 ## DremOS 0.5.0 ("Half")
 
 <a href="https://github.com/samparisot/DremOS/releases/download/0.5.0/DremOS-0.5.0.iso">Download</a>
@@ -26,9 +24,7 @@ Expected release date: Unknown
 
 ### Update Notes
 
-Since DremOS 0.5.0 is the first version of DremOS to be based on Linux Mint, this version won't be as feature rich. We will try to get more features on later updates.
-
-! DremOS uses XFCE4 as a Window Manager/Desktop
+Since DremOS 0.5.0 is the first version of DremOS to be a repo, this version won't be as feature rich. We will try to get more features on later updates.
 
 +Steam
 
@@ -36,7 +32,9 @@ Since DremOS 0.5.0 is the first version of DremOS to be based on Linux Mint, thi
 
 +DOSBox
 
-+The normal programs you would find on Linux Mint.
++Java JRE 8
+
++Visual Studio Code
 
 # Compatibility
 
@@ -52,28 +50,6 @@ GPU: Integrated graphics would work fine (every computer has it unless it is the
 
 WiFI or Ethernet connectivity is strongly recommended.
 
-# How to install
-
-Step 1.) Download the ISO for DremOS (latest is recomended).
-
-Step 2.) Download Rufus <a href="https://rufus.akeo.ie/">here</a>
-
-Step 3.) Open Rufus and drag the ISO into Rufus.
-
-Step 4.) Plug in an 8GB or more flash drive and select it.
-
-Step 5.) Back up your USB flash drive (optional)
-
-Step 6.) Press start
-
-Step 7.) Plug the USB flash drive into the target PC and boot into it through BIOS (while it is booting).
-
-BIOS keys are usualy ESC, F2, OR F12. If that does not work, look up BIOS key for your specific computer model.
-
-Step 8.) Follow instructions to install
-
-This will erase all data on your hard disk so back it up if you have anything important on it.
-
 # Recovered SUSE-based OSes
 We have recovered every SUSE-based OSes in case you wanted to try them out.
 
@@ -87,5 +63,4 @@ We have recovered every SUSE-based OSes in case you wanted to try them out.
 Note: This OS may be a pain to install, and will probably not install on any Apple computer (iMac, MacBook, Mac Pro, etc.) due to the firmware it uses.
 
 © DremOS Department of Innovation Inc. (DDoII) 2016-2018
-
 © Innovation Inc. 2009-2018
