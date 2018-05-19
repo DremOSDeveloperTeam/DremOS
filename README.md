@@ -51,7 +51,7 @@ GPU: Integrated graphics would work fine (every computer has it unless it is the
 WiFI or Ethernet connectivity is strongly recommended.
 
 # Recovered SUSE-based OSes
-We have recovered every SUSE-based OSes in case you wanted to try them out.
+We have recovered every old OS (except for 0.4.0) in case you wanted to try them out.
 
 ## Downloads
 <a href="https://github.com/samparisot/DremOS/releases/download/0.3.1/DremOS_Ultimate_Edition.x86_64-0.1.0.iso">DremOS 0.3.1 ("Electric")</a>
