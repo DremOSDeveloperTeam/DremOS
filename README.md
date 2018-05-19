@@ -2,31 +2,27 @@
 
 # DremOS
 
-DremOS is a fast and lightweight OS. It originally started on SUSEStudio which since has shut down, so since 0.5.0 it is based on Linux Mint. DremOS is possibly the greatest Mint-based OS because it has everything you need and is possibly better then the past DremOS. We have continued our work using built in programs on Ubuntu and some good terminal knowlege because ExpressBuild isn't finished yet (we may do Mint-based OSes AND SUSE-based OSes when it comes out). It simply allowed you to build appliances but did not allow you to edit them to the extent SUSEStudio did.
+DremOS is a fast and lightweight OS. It originally started on SUSEStudio which since has shut down, so since 0.5.0 it was turned into a large repository of applications to be downloaded in a zip.
+
+# Installation
+
+Installation is easy and is done in 3 steps.
+
+Step 1.) Download <code>install-dremos-x.x.x.zip</code> from the Releases page. This will be a large file. (x.x.x is for version)
+Step 2.) Extract the .zip. There will be a folder named "apps" an a .sh file named install.sh.
+Step 3.) In a terminal and in the same directory as the .sh and apps folder, type in <code>./install.sh</code>
 
 # Downloads
 
-## DremOS 0.6.0 ("Reminder")
 
-DremOS 0.6.0 is going to begin development when the ISO for DremOS 0.5.0 has been uploaded.
 
-### Planned Update Notes
-
-This update is to get DremOS a little over where it was before. DremOS 0.5.0 was simply made to say DremOS isn't dead and refuses to die and to make it an Mint-based OS.
-
-~More logo changes and other fun stuff like that
-
-+Java JRE 8
-
-+Visual Studio Code
-
-## DremOS 0.5.0 ("Minty")
+## DremOS 0.5.0 ("Half")
 
 <a href="https://github.com/samparisot/DremOS/releases/download/0.5.0/DremOS-0.5.0.iso">Download</a>
 
 Note: DremOS 0.5.0 has not been released yet, so this link will not work.
 
-Expected release date: Before 5/1/18
+Expected release date: Unknown
 
 ### Update Notes
 
