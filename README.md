@@ -2,7 +2,7 @@
 
 # DremOS
 
-DremOS is a fast and lightweight OS. It originally started on SUSEStudio which since has shut down, so since 0.5.0 it has turned into an Ubuntu distro.
+DremOS is a fast and lightweight OS. It originally started on SUSEStudio which since has shut down, so since 0.6.0 it has turned into an Ubuntu distro.
 
 # Installation 
 
