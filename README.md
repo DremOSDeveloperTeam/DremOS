@@ -2,29 +2,38 @@
 
 # DremOS
 
-DremOS is a fast and lightweight OS. It originally started on SUSEStudio which since has shut down, so since 0.5.0 it was turned into a large repository of applications to be downloaded in a zip.
+DremOS is a fast and lightweight OS. It originally started on SUSEStudio which since has shut down, so since 0.5.0 it has turned into an Ubuntu distro.
 
-# Installation
+# Installation 
 
-Installation is easy and is done in 3 steps.
+### Step 1.) Download DremOS
+It is strongly recommended to use the latest build as it will have the most features and better security than older builds.
 
-Step 1.) Download <code>install-dremos-x.x.x.zip</code> from the Releases page. This will be a large file. (x.x.x is for version)
-Step 2.) Extract the .zip. There will be a folder named "apps" an a .sh file named install.sh.
-Step 3.) In a terminal and in the same directory as the .sh and apps folder, type in <code>./install.sh</code>
+### Step 2.) Depending on your computer, you may have multiple options here.
+
+Option 1 (disk Drive): If your coputer has a disk drive, you can burn the iso to a DVD and install off of it.
+
+Option 2 (thumb drive): This is a faster way to install. To do this, download Rufus <a href="https://rufus.akeo.ie/">here</a> and flash the image to a thumb drive with at least 8GBs of storage.
+
+### Step 3.) Installation
+
+When starting up your computer with the thumbdrive or DVD in your it, press your computer's boot selector key (usualy a key like ESC, F2, F8, F12, etc.). You can find this out by searching your computer's model number on its manufacturer's site. Select your thumbdrive or DVD to boot. When it boots, select the Install button. The installation should be very simple from here.
 
 # Downloads
 
-## DremOS 0.5.0 ("Half")
+## DremOS 0.6.0 ("Foxtrot")
 
-<a href="https://github.com/samparisot/DremOS/releases/download/0.5.0/DremOS-0.5.0.iso">Download</a>
+We're going to be completly honest, our entire team didn't notice that we havn't made 0.5.0 until it was too late, so we bring you DremOS 0.6.0 codenamed Foxtrot.
 
-Note: DremOS 0.5.0 has not been released yet, so this link will not work.
+<a href="https://github.com/samparisot/DremOS/releases/download/0.6.0/DremOS-0.6.0.iso">Download</a>
+
+Note: DremOS 0.6.0 has not been released yet, so this link will not work.
 
 Expected release date: Unknown
 
 ### Update Notes
 
-Since DremOS 0.5.0 is the first version of DremOS to be a repo, this version won't be as feature rich. We will try to get more features on later updates.
+Since DremOS 0.6.0 is the first version of DremOS to be Ubuntu-based, this version won't be as feature rich due to us having to go back to square one. We will try to get more features on later updates.
 
 +Steam
 
@@ -32,9 +41,11 @@ Since DremOS 0.5.0 is the first version of DremOS to be a repo, this version won
 
 +DOSBox
 
-+Java JRE 8
++Java JRE
 
 +Visual Studio Code
+
+~All features you would normally find on Ubuntu such as Libreoffice and Firefox
 
 # Compatibility
 
