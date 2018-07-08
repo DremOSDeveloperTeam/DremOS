@@ -65,11 +65,7 @@ WiFI or Ethernet connectivity is strongly recommended.
 We have recovered every old OS (except for 0.4.0) in case you wanted to try them out.
 
 ## Downloads
-<a href="https://github.com/samparisot/DremOS/releases/download/0.3.1/DremOS_Ultimate_Edition.x86_64-0.1.0.iso">DremOS 0.3.1 ("Electric")</a>
-
-<a href="https://github.com/samparisot/DremOS/releases/download/0.3.1/DremOS_Ultimate_Edition.x86_64-0.1.0.iso">DremOS 0.2.0 ("Venture")</a>
-
-<a href="https://github.com/samparisot/DremOS/releases/download/0.3.1/DremOS_Ultimate_Edition.x86_64-0.1.0.iso">DremOS 0.1.0 ("Launchy")</a>
+DremOS Launchy (1.x), Venture (2.x), and Electric (3.x) are tightly packed into a single ~4.5GB ZIP file and is downloadable <a href="https://drive.google.com/open?id=1lFdUuK4Cgp5VHfYCZQYzZs9aYLhLVL_3">Here</a>
 
 Note: This OS may be a pain to install, and will probably not install on any Apple computer (iMac, MacBook, Mac Pro, etc.) due to the firmware it uses.
 
