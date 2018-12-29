@@ -2,7 +2,7 @@
 
 Latest Version: 0.3.x
 
-Project Status: Sub-dormant (returning August 23rd)
+Project Status: ACTIVE! (after so long!)
 
 # What Is DremOS?
 
@@ -29,11 +29,9 @@ When starting up your computer with the thumbdrive or DVD in your it, press your
 
 We're going to be completly honest, our entire team didn't notice that we havn't made 0.5.0 until it was too late, so we bring you DremOS 0.6.0 codenamed Foxtrot.
 
-<a href="https://github.com/samparisot/DremOS/releases/download/0.6.0/DremOS-0.6.0.iso">Download</a>
+<!-- <a href="https://github.com/samparisot/DremOS/releases/download/0.6.0/DremOS-0.6.0.iso">Download</a> -->
 
-Note: DremOS 0.6.0 has not been released yet, so this link will not work.
-
-Expected release date: Unknown
+Expected release date: TBD
 
 ### Update Notes
 
