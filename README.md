@@ -2,7 +2,7 @@
 
 Latest Version: 0.3.x
 
-Project Status: ACTIVE! (after so long!)
+Project Status: Coming Soon&trade;
 
 # What Is DremOS?
 
