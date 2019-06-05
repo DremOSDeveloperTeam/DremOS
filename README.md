@@ -68,6 +68,8 @@ We have recovered every old OS (except for 0.4.0) in case you wanted to try them
 ## Downloads
 DremOS Alfa (1.x), Bravo (2.x), and Charlie (3.x) are tightly packed into a single ~4.5GB ZIP file and is downloadable <a href="https://drive.google.com/open?id=1lFdUuK4Cgp5VHfYCZQYzZs9aYLhLVL_3">Here</a>
 
+DremOS 0.4.0 has been lost in time... sorry about that!
+
 Note: This OS may be a pain to install, and will probably not install on any Apple computer (iMac, MacBook, Mac Pro, etc.) due to the firmware it uses. VirtualBox (or maybe VMWare) will be your best bet here.
 
 © DremOS Department of Innovation Inc. (DDoII) 2016-2019
