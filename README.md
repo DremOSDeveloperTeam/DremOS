@@ -3,11 +3,11 @@
 Latest Version: 0.3.x
 
 Project Status: Active
-Release date for the next version: Coming Soon&trade;
+Release date for the next version: 6/6/19 5 P.M. (CST)
 
 # What Is DremOS?
 
-DremOS is a fast and lightweight OS. It originally started on SUSEStudio which since has shut down, so since 0.6.0 it has turned into an Ubuntu distro.
+DremOS is a fast and lightweight OS. It originally started on SUSEStudio which since has shut down, so since 0.6.0 it has turned into an xUbuntu distro.
 
 # Installation 
 
@@ -16,7 +16,7 @@ It is strongly recommended to use the latest build as it will have the most feat
 
 ### Step 2.) Depending on your computer, you may have multiple options here.
 
-Option 1 (disk Drive): If your coputer has a disk drive, you can burn the iso to a DVD and install off of it.
+Option 1 (disk Drive): If your computer has a disk drive, you can burn the iso to a DVD and install off of it.
 
 Option 2 (thumb drive): This is a faster way to install. To do this, download Rufus <a href="https://rufus.akeo.ie/">here</a> and flash the image to a thumb drive with at least 8GBs of storage.
 
@@ -28,27 +28,25 @@ When starting up your computer with the thumbdrive or DVD in your it, press your
 
 ## DremOS 0.6.0 ("Foxtrot")
 
-We're going to be completly honest, our entire team didn't notice that we havn't made 0.5.0 until it was too late, so we bring you DremOS 0.6.0 codenamed Foxtrot.
+Let's just skip 0.5.0. We bring you DremOS 0.6.0 codenamed Foxtrot!
 
 <!-- <a href="https://github.com/samparisot/DremOS/releases/download/0.6.0/DremOS-0.6.0.iso">Download</a> -->
 
-Expected release date: TBD
+Expected release date: 6/6/19 5 P.M. (CST)
 
 ### Update Notes
 
 Since DremOS 0.6.0 is the first version of DremOS to be Ubuntu-based, this version won't be as feature rich due to us having to go back to square one. We will try to get more features on later updates.
 
-+Steam
++RetroArch
 
-+WINE
++VirtualBox
+
++Chromium (replaces Firefox)
 
 +DOSBox
 
-+Java JRE
-
-+Visual Studio Code
-
-~All features you would normally find on Ubuntu such as Libreoffice and Firefox
+~All features you would normally find on Ubuntu such as Libreoffice
 
 # Compatibility
 
@@ -70,7 +68,7 @@ We have recovered every old OS (except for 0.4.0) in case you wanted to try them
 ## Downloads
 DremOS Alfa (1.x), Bravo (2.x), and Charlie (3.x) are tightly packed into a single ~4.5GB ZIP file and is downloadable <a href="https://drive.google.com/open?id=1lFdUuK4Cgp5VHfYCZQYzZs9aYLhLVL_3">Here</a>
 
-Note: This OS may be a pain to install, and will probably not install on any Apple computer (iMac, MacBook, Mac Pro, etc.) due to the firmware it uses.
+Note: This OS may be a pain to install, and will probably not install on any Apple computer (iMac, MacBook, Mac Pro, etc.) due to the firmware it uses. VirtualBox (or maybe VMWare) will be your best bet here.
 
-© DremOS Department of Innovation Inc. (DDoII) 2016-2018
-© Innovation Inc. 2009-2018
+© DremOS Department of Innovation Inc. (DDoII) 2016-2019
+© Innovation Inc. 2009-2019
