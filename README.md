@@ -1,4 +1,6 @@
-# Welcome to the Official DremOS Website
+# Welcome to the Official DremOS Website (old)
+
+## Notice: This site has been discontinued. Please go to the <a href="https://sparrdrem.github.io/DremOS">new site.</a>
 
 Latest Version: 0.3.x
 
